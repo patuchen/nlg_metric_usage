@@ -1,4 +1,9 @@
 # NLG Metric Usage
-Examining the usage of metrics for NLG in 2023 papers presented at INLG and ACL Generation Track.
+Accepted to INLG 2024, ArXiv preprint [here](https://arxiv.org/abs/2408.09169)
 
-The notebooks and data have been anonymized with all authors' initials and names replaced by XX. The comments columns have been deleted to preserve anonymity as they often included an author's name discussing their opinions.
+This repository contains the data and code for examining the usage of metrics for NLG in 2023 papers presented at INLG and ACL Generation Track.
+
+The attached jupyter notebooks were run on Google Colab.
+
+
+<img src="img/EU_FLAG.jpg" alt="drawing" height="11"/> This work was co-funded by the European Union (ERC, NG-NLG, 101039303) and Charles University projects GAUK 40222 and SVV 260 698.
