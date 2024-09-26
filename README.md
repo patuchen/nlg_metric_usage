@@ -1,5 +1,5 @@
 # NLG Metric Usage
-Accepted to INLG 2024, ArXiv preprint [here](https://arxiv.org/abs/2408.09169)
+Presented at INLG 2024, link to the paper [here](https://aclanthology.org/2024.inlg-main.44/).
 
 This repository contains the data and code for examining the usage of metrics for NLG in 2023 papers presented at INLG and ACL Generation Track.
 
